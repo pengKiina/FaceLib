@@ -2,7 +2,6 @@
 import setuptools
 setuptools.setup(
    name='FaceLib',
-   author='Man Foo',
-   #packages=['FaceLib']  #same as name
+   author='sajjjadayobi/FaceLib',
    packages=setuptools.find_packages()
 )
